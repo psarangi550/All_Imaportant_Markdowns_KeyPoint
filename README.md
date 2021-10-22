@@ -1,4 +1,4 @@
-# All_Imaportant_Markdowns_KeyPoint
+# All_Important_Markdowns_KeyPoint
 -----------------------------------------
 
 **Key Revesion Point for Django**
